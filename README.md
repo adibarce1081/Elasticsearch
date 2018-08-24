@@ -6,3 +6,4 @@ List of dependancies
 - json
 - lxml
 - requests
+change the for loop values to increase the number the scrapping data
